@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=void\ main(double,\ double)
+comment1.params=aa\ bb
+comment1.target=boolean\ checkEqual(double,\ double)
+numComments=2
